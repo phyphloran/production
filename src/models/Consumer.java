@@ -2,7 +2,6 @@ package models;
 
 
 import lombok.RequiredArgsConstructor;
-
 import java.util.Random;
 
 
